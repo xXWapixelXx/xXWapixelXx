@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxwapixelxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxwapixelxx" /> </p>
 
-- 🔭 I’m currently working on **Online Catalogus - Byte Bazaar**
+- 🔭 I’m currently working on **OrthoFoodie Bv - Blazter**
 
-- 🌱 I’m currently learning **Framework,**
+- 🌱 I’m currently learning **React Native,**
 
 - ⚡ Fun fact **I am funny**
 
