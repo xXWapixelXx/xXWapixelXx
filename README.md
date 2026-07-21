@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Wail</h1>
+<h1 align="center">Hi 👋, I'm Wapixel</h1>
 <h3 align="center">A passionate developer from Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxwapixelxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxwapixelxx" /> </p>
 
-- 🔭 I’m currently working on **OrthoFoodie Bv - Blazter**
+- 🔭 I’m currently working on **Mirage**
 
 - 🌱 I’m currently learning **React Native,**
 
